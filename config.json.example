@@ -1,0 +1,10 @@
+{
+  "Notifiers": {
+	"stdout": {},
+        "hipchat": {
+		"token": "ExampleTokenPutYoursHere",
+		"room": "cloudttail-test",
+		"from": "cloudtail"
+	}
+  }
+}
